@@ -1,0 +1,11 @@
+gradio==5.33.0
+transformers==4.45.0
+diffusers==0.33.1
+sentencepiece==0.2.0
+peft==0.13.2
+einops
+omegaconf
+safetensors
+torch==2.5.1
+torchvision==0.20.1
+flash-attn @ https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.3/flash_attn-2.7.3+cu12torch2.5cxx11abiFALSE-cp310-cp310-linux_x86_64.whl
